@@ -1,0 +1,4 @@
+Name: Mauricio Mauce
+Age: 36
+Favorite Color: Rojo
+Hobbie: Street Art Sticker
